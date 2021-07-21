@@ -1,0 +1,55 @@
+body{
+    background:#DCDCDC; 
+  }
+  
+  #title{
+   
+    display: flex;
+    align-items: center;
+   flex-direction:column;
+    text-align:center; 
+  }
+  h1{
+      text-align:center; 
+   
+  
+    
+  }
+  h2{
+    text-align:center; 
+   
+  }
+  p{
+text-align:center; 
+  font-size:120%;
+  }
+  
+  #img-div{
+     background:white;
+   display:flex;
+   flex-direction:column;
+   align-items: center;
+   margin-left: 2%;
+   margin-right:2%;
+   }
+   img{
+    max-width:95%;
+    height: auto;
+  }
+  #img-caption{
+  width: 90%; 
+  text-align:center; 
+  }
+  li{
+    font-size:110%;
+  }
+  #qot{
+    font-size:100%;
+    padding: 2%;
+  }
+  #footer{
+  text-align:center; 
+  margin-bottom:5%;
+ 
+    
+  }
